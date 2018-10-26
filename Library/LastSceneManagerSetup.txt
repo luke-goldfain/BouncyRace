@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/PickupTesting.unity
+- path: Assets/Scenes/level_scene.unity
   isLoaded: 1
   isActive: 1

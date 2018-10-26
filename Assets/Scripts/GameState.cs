@@ -7,7 +7,7 @@ namespace Assets.Scripts
 {
 
     // GameStates
-    public enum GameState
+    public enum PlayState
     {
 
         STARTING,

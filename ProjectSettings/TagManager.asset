@@ -5,6 +5,13 @@ TagManager:
   serializedVersion: 2
   tags:
   - PowerUp
+  - Checkpoint
+  - pickup
+  - FinishLine
+  - StopPickup
+  - Projectile
+  - MissilePickup
+  - RandomPickup
   layers:
   - Default
   - TransparentFX
@@ -39,6 +46,15 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Sub-Background
+    uniqueID: 343891971
+    locked: 0
+  - name: Background
+    uniqueID: 1843248565
+    locked: 0
+  - name: Ground Markings
+    uniqueID: 1988001563
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
